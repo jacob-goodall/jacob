@@ -107,6 +107,18 @@ h1
 .bnt-two
 {
     background-color: darkorange;
-    font-fam
+}
+h2
+{
+    color: aqua;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+mark1
+{
+  background-color: green;
+  color: black;
 }
 
